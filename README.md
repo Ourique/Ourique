@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Joao Ourique
 
-<!--
-**Ourique/Ourique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher focused on web application hacking and bug bounty.
 
-Here are some ideas to get you started:
+## Focus areas
+- Web app pentesting (OWASP Top 10)
+- Recon automation
+- HTB / CTF writeups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest writeups
+
+## Find me
+Blog:
